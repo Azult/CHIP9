@@ -88,7 +88,7 @@ Debug menu
 	Usage: b 0x1000			
 [-] db						# Delete breakpoints
 [-] help					# Print this help
-[-] running					# Starts execution from begining
+[-] run						# Starts execution from begining
 [-] continue					# Continues execution
 [-] find instruction				# Find an instruction
 	Usage: find inst "JMP 0x2a"
